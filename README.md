@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋(very old bio based on 2023 me,got some work, will update soon!)
 
 I am a passionate Machine Learning Engineer and Data Analyst aspirant dedicated to transforming data into actionable insights and intelligent solutions. With a strong foundation in both theoretical concepts and practical applications, I strive to leverage my skills to solve complex problems and drive data-driven decision-making.
 
