@@ -1,4 +1,4 @@
-![Metrics](github-metrics.svg)
+![Metrics](github-metrics.svg) 
 ## 🤝 Let's Connect!
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/chris-nevin-k-dence-2333a1310/)
